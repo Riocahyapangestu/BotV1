@@ -16,7 +16,8 @@ The name of this article is:
 
 4
 
-<img src = "https://d.top4top.io/p_1837luigd0.gif" alt = "GIF" width = "128" height = "128" />
+
+
 
 5
 
@@ -25,7 +26,7 @@ The name of this article is:
 <a href="#"><img title="X BOT" src="https://img.shields.io/badge/XBot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/adimas999"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Riocahyapangestu"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/adimas999/followers"><img title="Followers" src="https://img.shields.io/github/followers/adimas999?color=red&style=flat-square"></a>
@@ -34,7 +35,7 @@ The name of this article is:
 <a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adimas999/BotV1?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/6285939888897"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/62895605980121"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/adimas_shadoet"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 </P>
