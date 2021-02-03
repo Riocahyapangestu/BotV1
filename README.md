@@ -1,7 +1,25 @@
-# Termux Bot Whatsapp by MrDevils
-
+## Moshimoshi~ I'm Rio<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
+    <a href="https://github.com/Riocahyapangestu">
+        <img src="https://avatars.githubusercontent.com/u/78360789?s=460&u=d7bc6a5e500e9be95e14303834399324f991c0f2&v=4">
+    </a>
+</p>
+<br>
+
+2
+
+The name of this article is:
+
+3
+
+<p align = "center">
+
+4
+
+<img src = "https://d.top4top.io/p_1837luigd0.gif" alt = "GIF" width = "128" height = "128" />
+
+5
+
 </p>
 <p align="center">
 <a href="#"><img title="X BOT" src="https://img.shields.io/badge/XBot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
